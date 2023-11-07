@@ -1,0 +1,19 @@
+.rounded{
+    border-radius: 0.8rem !important;
+}
+.text-gold{
+    color: gold !important;
+}
+.text-silver{
+    color: silver !important;
+}
+.jumbotron{
+    margin-bottom: 0rem !important;
+    background-color: white;
+}
+.sp-shadow{
+    box-shadow: 10px 10px 5px gray;
+}
+*{
+    box-sizing: border-box;
+}
